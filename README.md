@@ -2,4 +2,6 @@
 
 ## A comprehensive and incomplete guide on how to do translation things at Raei Translations!
 
-Hello hello new translator! 
+# Translating a New Novel
+
+A new novels to first be 
