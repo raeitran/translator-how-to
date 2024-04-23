@@ -25,13 +25,9 @@ I need your new novel's
 
 In the future you'll insert this into the website yourself, but for now, give them to me.
 
-## Novel Updates
+## Novel Updates Add Series
 
-You need to add your novel to novel updates if one does not already exist for the novel.
-
-### Novel Updates Add Series
-
-You need to post the first chapter first. Since there isn't a translator app yet, I'll do that for you, just tell me when you are ready. 
+You need to add your novel to novel updates if one does not already exist for the novel. The first chapter needs to be posted first. Since there isn't a translator app yet, I'll do that for you, just tell me when you are ready. 
 
 After that, add a new novel series [here](https://www.novelupdates.com/add-series/)
 
@@ -61,6 +57,18 @@ I'm not yet sure if I should give translators the perm to make roles so I'll do 
 
 ### Novel Channel and Illustrations Channel
 
+Inside the raei translations discord, there is a channel called 'current-novels'.
+
+Make a post and do the following:
+- the appropriate tags, (ongoing, translator name)
+- link to the novel chaps in the website
+- link to the novel updates page
+- anything else you'd like. maybe even the link to the first chap? the novel image as well?
+[example](discord-current-novels.png)
+
+Next is a channel called 'illustrations'.
+
+Make and post and just add the images. It only accepts a single image for the post itself. After the post is created, you can add the rest of the images as replies to the post.
 
 ### Novel Announcement
 
@@ -71,10 +79,12 @@ Next you need to make a novel announcement. You have perms to tag people who hav
 - a link to novel roles as well as tagging the novel role itself
 - a link to the first chapter of the novel
 - anything else you'd like to add. Maybe a little introduction if you're new?
-[example](/novelAnnouncement.png)
+[example](/discord-novel-announcements.png)
 
 ## Raei Translations Site
-Unfortunately, no app for you guys to post just yet, but I'll make one soon. We'll set up a google drive folder instead with two sub folders: ready and posted. Place your chapters inside ready and I'll post them when it is time. Please include the chapter number in the title of the chapter file. Bonus points if it is a .txt file.
+Unfortunately, no app for you guys to post just yet, but I'll make one soon. We'll set up a google drive folder instead with two sub folders: ready and posted. Place your chapters inside ready and I'll post them when it is time. Please include the chapter number in the title of the chapter file. Bonus points if it is a .txt file. 
+[example1](rt-google-drive.png)
+[example2](rt-google-drive2.png)
 
 ## Posting and Scheduling
 
