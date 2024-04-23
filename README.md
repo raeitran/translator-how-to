@@ -7,7 +7,8 @@
 A new novel pick-up has to: 
 
 - not be licensed (I'm actually not 100% sure on how to check this properly so I'll have to figure that out... don't go for novels with 20mil+ views?)
-- not already be picked up by another translator (there are exceptions to this, please read the novelupdates guide [here](https://www.novelupdatesforum.com/threads/how-does-novel-updates-work.21477/) and the novelupdates policy [here](https://www.novelupdates.com/nu-policy/), of course, we don't want to make enemies unless we have to.
+- not already be picked up by another translator
+> there are exceptions to this, please read the novelupdates guide [here](https://www.novelupdatesforum.com/threads/how-does-novel-updates-work.21477/) and the novelupdates policy [here](https://www.novelupdates.com/nu-policy/), of course, we don't want to make enemies unless we have to.
 - not be 18+, if your novel isn't 18+ but has 18+ chaps, you'll have to host them outside of the site like a google drive folder and link to that instead.
 
 80% of our views come from novel updates so make sure your chaps are ones they'll accept. Also novelpia novels have the lowest chance of dmca and I also have an account that I pay for every 3 months or so + a bot extracter for chaps so novelpia novels are recommended.
@@ -64,7 +65,8 @@ Make a post and do the following:
 - link to the novel chaps in the website
 - link to the novel updates page
 - anything else you'd like. maybe even the link to the first chap? the novel image as well?
-[example](discord-current-novels.png)
+  
+![example](discord-current-novels.png)
 
 Next is a channel called 'illustrations'.
 
@@ -79,13 +81,15 @@ Next you need to make a novel announcement. You have perms to tag people who hav
 - a link to novel roles as well as tagging the novel role itself
 - a link to the first chapter of the novel
 - anything else you'd like to add. Maybe a little introduction if you're new?
+  
 ![example](/discord-novel-announcements.png)
 
 ## Raei Translations Site
 
 Unfortunately, no app for you guys to post just yet, but I'll make one soon. We'll set up a google drive folder instead with two sub folders: ready and posted. Place your chapters inside ready and I'll post them when it is time. I also need the email you'll be using to open these chaps. Please include the chapter number in the title of the chapter file. Bonus points if it is a .txt file. 
-[example1](rt-google-drive.png)
-[example2](rt-google-drive2.png)
+
+![example1](rt-google-drive.png)
+![example2](rt-google-drive2.png)
 
 ## Posting and Scheduling
 
