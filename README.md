@@ -71,7 +71,7 @@ Next you need to make a novel announcement. You have perms to tag people who hav
 - a link to novel roles as well as tagging the novel role itself
 - a link to the first chapter of the novel
 - anything else you'd like to add. Maybe a little introduction if you're new?
-(novelAnnouncement.png)
+(/novelAnnouncement.png)
 
 ## Raei Translations Site
 Unfortunately, no app for you guys to post just yet, but I'll make one soon. We'll set up a google drive folder instead with two sub folders: ready and posted. Place your chapters inside ready and I'll post them when it is time. Please include the chapter number in the title of the chapter file. Bonus points if it is a .txt file.
