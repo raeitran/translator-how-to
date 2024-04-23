@@ -1,3 +1,3 @@
-# Translator-how-to
+# Translator How To
 
-Hello hello new translator!
+## Hello hello new translator!
