@@ -1,3 +1,5 @@
 # Translator How To
 
-## Hello hello new translator!
+## A comprehensive and incomplete guide on how to do translation things at Raei Translations!
+
+Hello hello new translator! 
