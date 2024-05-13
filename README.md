@@ -100,3 +100,7 @@ I recommend posting multiple chapters a day for the first week of your novel pic
 ## Advance Chapters and Ad Revenue
 
 - to be continued.
+
+## Storing/ Editing Chaps
+
+So for now, we have two methods, google drive and github.
