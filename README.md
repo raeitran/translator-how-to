@@ -106,7 +106,7 @@ Then open the folder that has your chaps through vs code.
 ![example4](vs-open-folder.png)
 
 Once it has loaded, should look something like this?
-![example5](vs-folder.png)
+![example5](vs-folders.png)
 
 Click on the 3 circles with connecting branches and hit initialize repository:
 ![example6](vs-init-repo.png)
