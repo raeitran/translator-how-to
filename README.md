@@ -123,6 +123,32 @@ Then go to your github, go to your repositories by clicking your profile. On the
 
 In your repo page, click settings, then in the list of tabs go to collaborators, then press add people, then add me! Should just be raeitran.
 
+### Shortcuts/shortkeys
+
+ctrl+b to open/close the file explorer
+
+you can split your window in half (two files open at once) through a tab at the top.
+![example10](vs-split.png)
+
+ctrl+h for a single file replace tool. hover over the icons to figure out what they do, they're important. Regex for some complicated stuff, ask chatgpt to make regex's for you.
+![image](https://github.com/raeitran/translator-how-to/assets/128806020/b6e38eb7-aa3f-44c2-afcd-9e835b553666)
+
+ctrl+shift+h for multi file replace tool. I use this to replace changed names, terms etc. It will search entire folders and give every instance of it.
+![image](https://github.com/raeitran/translator-how-to/assets/128806020/0e3b8570-9927-4417-a627-8e5950a7249b)
+
+Those are the most useful ones I use for editing.
+
+I also sometimes use:
+
+alt+arrowkey when a line is clicked on to move it up and down.
+shift+alt+arrowkey to duplicate a line and move it up or down.
+alt+click to specifically select multiple areas at once.
+ctrl+d after highlighting a word to select and edit multiple instances.
+
+In the extensions tab, 
+
+I just use grammarly, a dark mode formatting, Word Count(shows word count on status bar), Sync Scroll(syncs the scroll when you have multiple files open)
+
 ## Posting and Scheduling
 
 I recommend posting multiple chapters a day for the first week of your novel pickup. It gives it a huge boost in viewership and if you end the mass release at a good chap(like a cliff), you might see a few advance chapter subscriptions which is where most of your revenue will come from. 
