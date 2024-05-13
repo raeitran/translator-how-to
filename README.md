@@ -94,10 +94,22 @@ Unfortunately, no app for you guys to post just yet, but I'll make one soon. We'
 Or alternatively, you can use git! You need to install git first, then you can just use a text editor with github capabilities like vs code. If you want to feel like a coder you can also learn to use git through the command terminal.
 
 You can download git here: https://git-scm.com/downloads
+
 You can download vs code here: https://code.visualstudio.com/
 
+Uh default everything for git should be fine but you can watch a quick how to install git for your operating system if you want to.
+
+Sign in to your github account.
+![example3](vs-sign.png)
+
 Then open the folder that has your chaps through vs code.
-![example3](vs-open-folder.png)
+![example4](vs-open-folder.png)
+
+Once it has loaded, should look something like this?
+![example5](vs-folder.png)
+
+Click on the 3 circles with connecting branches and hit initialize repository:
+![example6](vs-init-repo.png)
 
 ## Posting and Scheduling
 
