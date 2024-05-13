@@ -111,6 +111,18 @@ Once it has loaded, should look something like this?
 Click on the 3 circles with connecting branches and hit initialize repository:
 ![example6](vs-init-repo.png)
 
+Then in the same tab, you want to commit, create a commit message, click the checkmark at the top of your commit message to save it, send it, then publish the branch. Click private repository at the popup, as we dont want other people to take your chaps.
+
+Remember this process because this will be how you save your files to github, and how I will retrieve them from you as well.
+
+![example7](vs-commit.png)
+![example8](vs-commit-msg.png)
+![example9](vs-publish.png)
+
+Then go to your github, go to your repositories by clicking your profile. On the page should now be your repositories, click on your repo that has your novels.
+
+In your repo page, click settings, then in the list of tabs go to collaborators, then press add people, then add me! Should just be raeitran.
+
 ## Posting and Scheduling
 
 I recommend posting multiple chapters a day for the first week of your novel pickup. It gives it a huge boost in viewership and if you end the mass release at a good chap(like a cliff), you might see a few advance chapter subscriptions which is where most of your revenue will come from. 
