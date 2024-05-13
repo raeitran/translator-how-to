@@ -91,7 +91,7 @@ Unfortunately, no app for you guys to post just yet, but I'll make one soon. We'
 ![example1](rt-google-drive.png)
 ![example2](rt-google-drive2.png)
 
-Or alternatively, you can use github! You can learn how to setup github yourself if you like, or you can just use a text editor with github capabilities like vs code.
+Or alternatively, you can use git! You need to install git first, then you can just use a text editor with github capabilities like vs code. If you want to feel like a coder you can also learn to use git through the command terminal.
 You can download vs code here: https://code.visualstudio.com/
 
 Then open the folder that has your chaps through vs code.
