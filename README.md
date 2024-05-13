@@ -84,12 +84,18 @@ Next you need to make a novel announcement. You have perms to tag people who hav
   
 ![example](/discord-novel-announcements.png)
 
-## Raei Translations Site
+## Raei Translations Site 
 
 Unfortunately, no app for you guys to post just yet, but I'll make one soon. We'll set up a google drive folder instead with two sub folders: ready and posted. Place your chapters inside ready and I'll post them when it is time. I also need the email you'll be using to open these chaps. Please include the chapter number in the title of the chapter file. Bonus points if it is a .txt file. 
 
 ![example1](rt-google-drive.png)
 ![example2](rt-google-drive2.png)
+
+Or alternatively, you can use github! You can learn how to setup github yourself if you like, or you can just use a text editor with github capabilities like vs code.
+You can download vs code here: https://code.visualstudio.com/
+
+Then open the folder that has your chaps through vs code.
+![example3](vs-open-folder.png)
 
 ## Posting and Scheduling
 
@@ -100,7 +106,3 @@ I recommend posting multiple chapters a day for the first week of your novel pic
 ## Advance Chapters and Ad Revenue
 
 - to be continued.
-
-## Storing/ Editing Chaps
-
-So for now, we have two methods, google drive and github.
